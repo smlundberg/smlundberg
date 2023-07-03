@@ -1,10 +1,6 @@
 ## Hi there, I'm Steph 👋 👩‍💻
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/smlundberg/smlundberg/blob/update-readme/Twitter%20Cover%202%20(Woman%20Working)%20Github%20Header.png?raw=true">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/smlundberg/smlundberg/blob/update-readme/Twitter%20Cover%202%20(Woman%20Working)%20Github%20Header.png?raw=true">
- <img alt="Powered by empathy. And coffee." src="https://github.com/smlundberg/smlundberg/blob/update-readme/Twitter%20Cover%202%20(Woman%20Working)%20Github%20Header.png?raw=true">
-</picture>
+![Twitter Cover 2 (Woman Working) Github Header](https://github.com/smlundberg/smlundberg/assets/31993924/d505a7be-cd9f-4783-a8d6-c1bd85602b55)
 
 Aka Faile. I've been a Support Human since 2014, and I specialize in building and enabling Support teams in startups and growth-stage tech companies and in knowledge management. Mom, crafter, dork. Here for all your screaming needs. 😱
 
