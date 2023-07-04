@@ -31,3 +31,7 @@ gem "bridgetown", "~> 1.2.0"
 # Puma is a Rack-compatible server used by Bridgetown
 # (you can optionally limit this to the "development" group)
 gem "puma", "~> 6"
+
+gem "erb_lint", "~> 0.4.0", :group => :development
+
+gem "standard", "~> 0.0.36", :groups => [:development, :test]
