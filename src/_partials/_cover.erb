@@ -1,0 +1,13 @@
+<div class="cover gh-outer">
+    <div class="cover-content gh-inner">
+        <% if @site.metadata.icon %>
+            <div class="cover-icon">
+                <img class="cover-icon-image" src="<%= @site.metadata.icon %>" alt="<%= @site.metadata.title %>">
+            </div>
+        <% end %>
+
+        <% if @site.metadata.description %>
+            <div class="cover-description"><% @site.metadata.description %></div>
+        <% end %>
+    </div>
+</div>
