@@ -25,7 +25,7 @@ Oh, hey, maybe we work together (or you're thinking about working with me). Exce
 <details>
   <summary>🕰️ When I work</summary>
 
-  I'm currently in Colorado, so I'm in US Mountain Time. My hours are very flexible, but I'm generally online between 0900 ET and 2000 ET. I'm not active that entire time, of course, but I'm generally very accessible during those hours.
+  I'm currently in Colorado, so I'm in US Mountain Time. My hours are very flexible, but I'm generally online between 0900 MT and 2000 MT. I'm not active that entire time, of course, but I'm generally very accessible during those hours.
 
   ![working](https://github.com/smlundberg/smlundberg/assets/31993924/54e36b04-eb20-430d-b242-94c8edbd8a50)
 </details>
