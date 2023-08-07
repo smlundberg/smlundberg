@@ -19,7 +19,7 @@ Oh, hey, maybe we work together (or you're thinking about working with me). Exce
 
   ![4988F6A5-2BBC-4562-A22C-2DDE3781A5B5_2](https://github.com/smlundberg/smlundberg/assets/31993924/0bf15d17-cb47-4b83-b5c4-e417c9b91112)
 
-  You can find me at my [website](https://www.smlundberg.com/) or at [LinkedIn](https://www.linkedin.com/in/smlundberg/) (although fair warning, I'm not the biggest fan of LinkedIn and update it only sporadically).
+  You can find me at my [personal website](https://www.smlundberg.com/), my company's website [Support Human LLC](https://www.supporthuman.cx) or at [LinkedIn](https://www.linkedin.com/in/smlundberg/) (although fair warning, I'm not the biggest fan of LinkedIn and update it only sporadically).
 </details>
 
 <details>
